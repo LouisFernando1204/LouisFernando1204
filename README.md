@@ -3,7 +3,7 @@ https://github.com/LouisFernando1204/LouisFernando1204/assets/145947978/80eea0dc
 <h1 align="center">Hi 👋, I'm Louis Fernando 😃</h1>
 <h3 align="center">A passionate Web and App Developer. Exploring new technologies and building innovative solutions.</h3>
 
-- 🔭 I’m currently working on [YuccAI, A Voice Assistant Website for Universitas Ciputra.](https://github.com/LouisFernando1204/yuccAI-frontend/)
+- 🔭 I’m currently working on [YuccAI, A Voice Assistant Website for Universitas Ciputra](https://github.com/LouisFernando1204/yuccAI-frontend/)
 
 - 🌱 I’m currently learning **Blockchain (Web 3.0)**
 
