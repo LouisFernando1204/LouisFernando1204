@@ -7,7 +7,7 @@ https://github.com/LouisFernando1204/LouisFernando1204/assets/145947978/80eea0dc
 
 - 🌱 I’m currently learning **Blockchain (Web 3.0)**
 
-- 💬 Ask me about **Laravel, NodeJS, ReactJS/TS, Flutter, Swift**
+- 💬 Ask me about **Laravel, NodeJS, PythonFastAPI, ReactJS/TS, Flutter, Swift**
 
 - 📫 How to reach me fernandolouis55@gmail.com
 
