@@ -24,7 +24,7 @@ https://github.com/LouisFernando1204/LouisFernando1204/assets/145947978/80eea0dc
 <a href="https://www.linkedin.com/in/louisfernandoprofile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="louis fernando" height="30" width="40" /></a>
 <a href="https://instagram.com/fernandolouis55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fernandolouis55" height="30" width="40" /></a>
 <a href="https://medium.com/@fernandolouis55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@louisfernando" height="30" width="40" /></a>
-<a href="https://discord.gg/6985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6985" height="30" width="40" /></a>
+<a href="https://discord.com/channels/571541948700033045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6985" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
