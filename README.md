@@ -3,9 +3,9 @@ https://github.com/LouisFernando1204/LouisFernando1204/assets/145947978/80eea0dc
 <h1 align="center">Hi 👋, I'm Louis Fernando 😃</h1>
 <h3 align="center">A passionate Web and App Developer. Exploring new technologies and building innovative solutions.</h3>
 
-- 🔭 I’m currently working on [OnTix, A secure and decentralized NFT ticketing platform on Ethereum](https://github.com/LouisFernando1204/ontix-dapp/)
+- 🔭 I’m currently working on [RealEstate App, A cross-platform mobile application for discovering and exploring real estate properties, built with React Native and Expo](https://github.com/LouisFernando1204/realestate-app/)
 
-- 🌱 I’m currently learning **Blockchain (Web 3.0)**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Laravel, NodeJS, Golang, Python, Swift, ReactJS, NextJS, Flutter, SwiftUI**
 
